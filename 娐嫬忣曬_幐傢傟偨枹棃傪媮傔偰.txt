@@ -1,0 +1,186 @@
+<< Ž¸‚í‚ê‚½–¢—ˆ‚ð‹‚ß‚Ä ŠÂ‹«î•ñ >>
+
+* OS
+- Version: Windows 10 ¼ÒÍ¥ÖÐÎÄ°æ 64-bit (6.2, Build 9200) (10240.th1.170602-2340)
+- Language: Chinese (Simplified) (Regional Setting: Chinese (Simplified))
+- WindowsDirectory: C:\Windows
+
+* CPU
+- Processor: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz (4 CPUs), ~2.4GHz
+
+* Memory
+- PhysicalMemory: 8192MB RAM
+- PageFile: 5549MB used, 3836MB available
+
+* HDD
+- C: [NTFS] (49.7GB free, 100.0GB total) WDC WD10JPCX-24UE4T0
+- D: [NTFS] (103.7GB free, 200.0GB total) WDC WD10JPCX-24UE4T0
+- E: [NTFS] (34.1GB free, 200.0GB total) WDC WD10JPCX-24UE4T0
+- F: [NTFS] (0.9GB free, 200.0GB total) WDC WD10JPCX-24UE4T0
+- G: [NTFS] (12.9GB free, 210.9GB total) WDC WD10JPCX-24UE4T0
+
+* Drive
+
+* DirectX
+- Version: 12.0 
+
+* Display
+- Generic PnP Monitor (1920 x 1080 (32 bit) (60Hz)) Intel(R) HD Graphics 5500
+
+* Sound
+- ÑïÉùÆ÷ (Realtek High Definition Audio)
+
+* Input
+- Êó±ê
+- ¼üÅÌ
+- UMDF HID minidriver Device
+
+* System
+- Manufacturer: LENOVO
+- Model: 80MY
+- BIOS: C2CN19WW(V2.00)
+- Mobile 5th Generation Intel(R) Core(TM) PCI Express Root Port #3 - 9C94
+- Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+- AMD Radeon(TM) R9 M375
+- Mobile 5th Generation Intel(R) Core(TM) Premium SKU LPC Controller - 9CC3
+- Intel(R) Dual Band Wireless-AC 3160
+- Realtek PCIe GBE Family Controller
+- PCI standard host CPU bridge
+- Mobile 5th Generation Intel(R) Core(TM) PCI Express Root Port #5 - 9C98
+- Mobile 5th Generation Intel(R) Core(TM) PCI Express Root Port #1 - 9C90
+- Mobile 5th Generation Intel(R) Core(TM) SMBus Controller - 9CA2
+- Intel(R) 9 Series Chipset Family SATA AHCI Controller
+- Intel(R) Management Engine Interface 
+- Intel(R) USB 3.0 ¿ÉÀ©Õ¹Ö÷»ú¿ØÖÆÆ÷ - 1.0 (Microsoft)
+- Mobile 5th Generation Intel(R) Core(TM) PCI Express Root Port #4 - 9C96
+- High Definition Audio ¿ØÖÆÆ÷
+- Intel(R) HD Graphics 5500
+
+* DirectShowFilter
+- 0x00800800: WMAudio Decoder DMO (C:\Windows\SysWOW64\WMADMOD.DLL)
+- 0x00600800: WMAPro over S/PDIF DMO (C:\Windows\SysWOW64\WMADMOD.DLL)
+- 0x00600800: WMSpeech Decoder DMO (C:\Windows\SysWOW64\WMSPDMOD.DLL)
+- 0x00600800: MP3 Decoder DMO (C:\Windows\SysWOW64\mp3dmod.dll)
+- 0x00800001: Mpeg4s Decoder DMO (C:\Windows\SysWOW64\mp4sdecd.dll)
+- 0x00600800: WMV Screen decoder DMO (C:\Windows\SysWOW64\wmvsdecd.dll)
+- 0x00800001: WMVideo Decoder DMO (C:\Windows\SysWOW64\wmvdecod.dll)
+- 0x00800001: Mpeg43 Decoder DMO (C:\Windows\SysWOW64\mp43decd.dll)
+- 0x00800001: Mpeg4 Decoder DMO (C:\Windows\SysWOW64\mpg4decd.dll)
+- 0x00200000: ATI Ticker (C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\Ticker.ax)
+- 0x00400000: DV Muxer (C:\Windows\SysWOW64\qdv.dll)
+- 0x00400001: Color Space Converter (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: WM ASF Reader (C:\Windows\SysWOW64\qasf.dll)
+- 0x00600000: AVI Splitter (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: VGA 16 Color Ditherer (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: SBE2MediaTypeProfile (C:\Windows\SysWOW64\sbe.dll)
+- 0x005FFFFF: Microsoft DTV-DVD Video Decoder (C:\Windows\SysWOW64\msmpeg2vdec.dll)
+- 0x00600000: AC3 Parser Filter (C:\Windows\SysWOW64\mpg2splt.ax)
+- 0x00200000: StreamBufferSink (C:\Windows\SysWOW64\sbe.dll)
+- 0x00600000: MJPEG Decompressor (C:\Windows\SysWOW64\quartz.dll)
+- 0x00600000: MPEG-I Stream Splitter (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: SAMI (CC) Parser (C:\Windows\SysWOW64\quartz.dll)
+- 0x00600000: VBI Codec (C:\Windows\SysWOW64\VBICodec.ax)
+- 0x005FFFFF: MPEG-2 Splitter (C:\Windows\SysWOW64\mpg2splt.ax)
+- 0x00200000: Closed Captions Analysis Filter (C:\Windows\SysWOW64\cca.dll)
+- 0x00200000: SBE2FileScan (C:\Windows\SysWOW64\sbe.dll)
+- 0x00200000: Microsoft MPEG-2 Video Encoder (C:\Windows\SysWOW64\msmpeg2enc.dll)
+- 0x00800001: Internal Script Command Renderer (C:\Windows\SysWOW64\quartz.dll)
+- 0x03680001: MPEG Audio Decoder (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: MMACE ProcAmp (C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\MMACEFilters.dll)
+- 0x00600000: DV Splitter (C:\Windows\SysWOW64\qdv.dll)
+- 0x00200000: Video Mixing Renderer 9 (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Microsoft MPEG-2 Encoder (C:\Windows\SysWOW64\msmpeg2enc.dll)
+- 0x00600000: ACM Wrapper (C:\Windows\SysWOW64\quartz.dll)
+- 0x00800001: Video Renderer (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: MPEG-2 Video Stream Analyzer (C:\Windows\SysWOW64\sbe.dll)
+- 0x00600000: Line 21 Decoder (C:\Windows\SysWOW64\qdvd.dll)
+- 0x00600000: Video Port Manager (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: Video Renderer (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: VPS Decoder (C:\Windows\SysWOW64\WSTPager.ax)
+- 0x00400000: WM ASF Writer (C:\Windows\SysWOW64\qasf.dll)
+- 0x00600000: VBI Surface Allocator (C:\Windows\SysWOW64\vbisurf.ax)
+- 0x00200000: MMACE SoftEmu (C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\MMACEFilters.dll)
+- 0x00200000: File writer (C:\Windows\SysWOW64\qcap.dll)
+- 0x00200000: DVD Navigator (C:\Windows\SysWOW64\qdvd.dll)
+- 0x00200000: MMACE DeInterlace (C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\MMACEFilters.dll)
+- 0x00200000: Overlay Mixer2 (C:\Windows\SysWOW64\qdvd.dll)
+- 0x00600064: AVI Draw (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Microsoft MPEG-2 Audio Encoder (C:\Windows\SysWOW64\msmpeg2enc.dll)
+- 0x00200000: WST Pager (C:\Windows\SysWOW64\WSTPager.ax)
+- 0x00600000: MPEG-2 Demultiplexer (C:\Windows\SysWOW64\mpg2splt.ax)
+- 0x00800000: DV Video Decoder (C:\Windows\SysWOW64\qdv.dll)
+- 0x00200000: SampleGrabber (C:\Windows\SysWOW64\qedit.dll)
+- 0x00200000: Null Renderer (C:\Windows\SysWOW64\qedit.dll)
+- 0x005FFFFF: MPEG-2 Sections and Tables (C:\Windows\SysWOW64\Mpeg2Data.ax)
+- 0x00200000: Microsoft AC3 Encoder (C:\Windows\SysWOW64\msac3enc.dll)
+- 0x00200000: StreamBufferSource (C:\Windows\SysWOW64\sbe.dll)
+- 0x00200000: Smart Tee (C:\Windows\SysWOW64\qcap.dll)
+- 0x00200000: Overlay Mixer (C:\Windows\SysWOW64\qdvd.dll)
+- 0x00600000: AVI Decompressor (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: AVI/WAV File Source (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: Wave Parser (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: MIDI Parser (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: Multi-file Parser (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: File stream renderer (C:\Windows\SysWOW64\quartz.dll)
+- 0x005FFFFF: Microsoft DTV-DVD Audio Decoder (C:\Windows\SysWOW64\msmpeg2adec.dll)
+- 0x00200000: StreamBufferSink2 (C:\Windows\SysWOW64\sbe.dll)
+- 0x00200000: AVI Mux (C:\Windows\SysWOW64\qcap.dll)
+- 0x00600002: Line 21 Decoder 2 (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: File Source (Async.) (C:\Windows\SysWOW64\quartz.dll)
+- 0x00400000: File Source (URL) (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Infinite Pin Tee Filter (C:\Windows\SysWOW64\qcap.dll)
+- 0x00200000: Enhanced Video Renderer (C:\Windows\SysWOW64\evr.dll)
+- 0x00200000: BDA MPEG2 Transport Information Filter (C:\Windows\SysWOW64\psisrndr.ax)
+- 0x40000001: MPEG Video Decoder (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Tee/Sink-to-Sink ×ª»»³ÌÐò (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00600800: WMVideo8 Encoder DMO (C:\Windows\SysWOW64\wmvxencd.dll)
+- 0x00600800: WMVideo9 Encoder DMO (C:\Windows\SysWOW64\wmvencod.dll)
+- 0x00600800: MSScreen 9 encoder DMO (C:\Windows\SysWOW64\wmvsencd.dll)
+- 0x00200000: DV Video Encoder (C:\Windows\SysWOW64\qdv.dll)
+- 0x00200000: MJPEG Compressor (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Cinepak Codec by Radius (C:\Windows\SysWOW64\qcap.dll)
+- 0x00200000: Intel IYUV ±àÂë½âÂëÆ÷ (C:\Windows\SysWOW64\qcap.dll)
+- 0x00200000: Intel IYUV ±àÂë½âÂëÆ÷ (C:\Windows\SysWOW64\qcap.dll)
+- 0x00200000: Microsoft RLE (C:\Windows\SysWOW64\qcap.dll)
+- 0x00200000: Microsoft Video 1 (C:\Windows\SysWOW64\qcap.dll)
+- 0x00600800: WM Speech Encoder DMO (C:\Windows\SysWOW64\WMSPDMOE.DLL)
+- 0x00600800: WMAudio Encoder DMO (C:\Windows\SysWOW64\WMADMOE.DLL)
+- 0x00200000: IMA ADPCM (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: PCM (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Microsoft ADPCM (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: GSM 6.10 (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: CCITT A-Law (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: CCITT u-Law (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: MPEG Layer-3 (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Âó¿Ë·çÕóÁÐ (Realtek High Definition Audio) (C:\Windows\SysWOW64\qcap.dll)
+- 0x00600000: PBDA DTFilter (C:\Windows\SysWOW64\CPFilters.dll)
+- 0x00200000: PBDA ETFilter (C:\Windows\SysWOW64\CPFilters.dll)
+- 0x00200000: PBDA PTFilter (C:\Windows\SysWOW64\CPFilters.dll)
+- 0x00800000: Default MidiOut Device (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Microsoft GS Wavetable Synth (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Realtek HD Audio Stereo input (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00200000: Realtek HD Audio Mic input (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00200000: Lenovo EasyCamera (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00200000: Mouse Scanner (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00200000: Realtek HD Audio output (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00200000: Microsoft ATSC Network Provider (C:\Windows\SysWOW64\MSDvbNP.ax)
+- 0x00200000: Microsoft DVBC Network Provider (C:\Windows\SysWOW64\MSDvbNP.ax)
+- 0x00200000: Microsoft DVBS Network Provider (C:\Windows\SysWOW64\MSDvbNP.ax)
+- 0x00200000: Microsoft DVBT Network Provider (C:\Windows\SysWOW64\MSDvbNP.ax)
+- 0x00200000: Microsoft Network Provider (C:\Windows\SysWOW64\MSNP.ax)
+- 0x00200000: Lenovo EasyCamera (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00200000: Mouse Scanner (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00600000: VBI Codec (C:\Windows\SysWOW64\VBICodec.ax)
+- 0x00600000: BDA MPEG2 Transport Information Filter (C:\Windows\SysWOW64\psisrndr.ax)
+- 0x00600000: MPEG-2 Sections and Tables (C:\Windows\SysWOW64\Mpeg2Data.ax)
+- 0x00600000: Decrypt/Tag (C:\Windows\SysWOW64\EncDec.dll)
+- 0x00200000: Encrypt/Tag (C:\Windows\SysWOW64\EncDec.dll)
+- 0x00200000: PTFilter (C:\Windows\SysWOW64\EncDec.dll)
+- 0x00200000: XDS Codec (C:\Windows\SysWOW64\EncDec.dll)
+- 0x00200000: Tee/Sink-to-Sink ×ª»»³ÌÐò (C:\Windows\SysWOW64\ksproxy.ax)
+- 0x00200000: ÑïÉùÆ÷ (Realtek High Definition Audio) (C:\Windows\SysWOW64\quartz.dll)
+- 0x00800000: Default DirectSound Device (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: Default WaveOut Device (C:\Windows\SysWOW64\quartz.dll)
+- 0x00200000: DirectSound: ÑïÉùÆ÷ (Realtek High Definition Audio) (C:\Windows\SysWOW64\quartz.dll)
+
+10/6/2017, 16:49:33
